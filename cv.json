@@ -1,0 +1,51 @@
+{
+	"basics": {
+		"name": "Raj Kumar",
+		"label": "Student",
+		"picture": "https://avatars.githubusercontent.com/u/76458820?v=4",
+		"email": "2020kucp1004@iiitkota.ac.in",
+		"phone": "+918235490036",
+		"summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering. ",
+		"location": {
+			"address": "Ranchi",
+			"postalCode": "835103",
+			"city": "Ranchi",
+			"countryCode": "India",
+			"region": "Jharkhand"
+		},
+		"profiles": [{
+				"network": "Github",
+				"username": "rkmehta24",
+				"url": "https://github.com/rkmehta24"
+			},
+			{
+				"network": "linkedin",
+				"username": "Raj Kumar",
+				"url": "https://www.linkedin.com/in/raj-kumar-b74034179/"
+			}
+		]
+	},
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor of Technology/Engineering",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"skills": [{
+		"level": "Beginner",
+		"keywords": ["C/C++", "HTML", "CSS"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Chess", "Basketball", "Badminton"]
+	},
+    {
+        "name": "Travelling",
+        "keywords": [
+            "Adventurer"
+        ]
+    }],
+	"references": []
+}
